@@ -1,0 +1,12 @@
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Trabajo_Practico_Nro1\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Trabajo_Practico_Nro1\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Trabajo_Practico_Nro1\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Trabajo_Practico_Nro1\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Trabajo_Practico_Nro1\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Trabajo_Practico_Nro1\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Trabajo_Practico_Nro1\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Trabajo_Practico_Nro1\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Trabajo_Practico_Nro1\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Trabajo_Practico_Nro1\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Trabajo_Practico_Nro1\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Trabajo_Practico_Nro1\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll

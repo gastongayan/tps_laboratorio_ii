@@ -1,0 +1,16 @@
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Trabajo_Practico_Nro1\Trabajo_Practico_Nro1\bin\Debug\net5.0\Entidades.exe
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Trabajo_Practico_Nro1\Trabajo_Practico_Nro1\bin\Debug\net5.0\Entidades.deps.json
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Trabajo_Practico_Nro1\Trabajo_Practico_Nro1\bin\Debug\net5.0\Entidades.runtimeconfig.json
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Trabajo_Practico_Nro1\Trabajo_Practico_Nro1\bin\Debug\net5.0\Entidades.runtimeconfig.dev.json
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Trabajo_Practico_Nro1\Trabajo_Practico_Nro1\bin\Debug\net5.0\Entidades.dll
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Trabajo_Practico_Nro1\Trabajo_Practico_Nro1\bin\Debug\net5.0\Entidades.pdb
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Trabajo_Practico_Nro1\Trabajo_Practico_Nro1\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Trabajo_Practico_Nro1\Trabajo_Practico_Nro1\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Trabajo_Practico_Nro1\Trabajo_Practico_Nro1\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Trabajo_Practico_Nro1\Trabajo_Practico_Nro1\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Trabajo_Practico_Nro1\Trabajo_Practico_Nro1\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Trabajo_Practico_Nro1\Trabajo_Practico_Nro1\obj\Debug\net5.0\Entidades.dll
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Trabajo_Practico_Nro1\Trabajo_Practico_Nro1\obj\Debug\net5.0\refint\Entidades.dll
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Trabajo_Practico_Nro1\Trabajo_Practico_Nro1\obj\Debug\net5.0\Entidades.pdb
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Trabajo_Practico_Nro1\Trabajo_Practico_Nro1\obj\Debug\net5.0\Entidades.genruntimeconfig.cache
+D:\Gaston\Documents\CARRERA PROGRAMACION\Laboratorio 2\Ejercicios de cursada\Trabajo_Practico_Nro1\Trabajo_Practico_Nro1\obj\Debug\net5.0\ref\Entidades.dll
